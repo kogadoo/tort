@@ -1,0 +1,14 @@
+C:\Users\Пользователь\Desktop\шаражные файлики\ОАиП\source\repos\ТоРтИкИ\ТоРтИкИ\obj\Debug\net6.0\ТоРтИкИ.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Пользователь\Desktop\шаражные файлики\ОАиП\source\repos\ТоРтИкИ\ТоРтИкИ\obj\Debug\net6.0\ТоРтИкИ.AssemblyInfoInputs.cache
+C:\Users\Пользователь\Desktop\шаражные файлики\ОАиП\source\repos\ТоРтИкИ\ТоРтИкИ\obj\Debug\net6.0\ТоРтИкИ.AssemblyInfo.cs
+C:\Users\Пользователь\Desktop\шаражные файлики\ОАиП\source\repos\ТоРтИкИ\ТоРтИкИ\obj\Debug\net6.0\ТоРтИкИ.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\Desktop\шаражные файлики\ОАиП\source\repos\ТоРтИкИ\ТоРтИкИ\bin\Debug\net6.0\ТоРтИкИ.exe
+C:\Users\Пользователь\Desktop\шаражные файлики\ОАиП\source\repos\ТоРтИкИ\ТоРтИкИ\bin\Debug\net6.0\ТоРтИкИ.deps.json
+C:\Users\Пользователь\Desktop\шаражные файлики\ОАиП\source\repos\ТоРтИкИ\ТоРтИкИ\bin\Debug\net6.0\ТоРтИкИ.runtimeconfig.json
+C:\Users\Пользователь\Desktop\шаражные файлики\ОАиП\source\repos\ТоРтИкИ\ТоРтИкИ\bin\Debug\net6.0\ТоРтИкИ.dll
+C:\Users\Пользователь\Desktop\шаражные файлики\ОАиП\source\repos\ТоРтИкИ\ТоРтИкИ\bin\Debug\net6.0\ТоРтИкИ.pdb
+C:\Users\Пользователь\Desktop\шаражные файлики\ОАиП\source\repos\ТоРтИкИ\ТоРтИкИ\obj\Debug\net6.0\ТоРтИкИ.dll
+C:\Users\Пользователь\Desktop\шаражные файлики\ОАиП\source\repos\ТоРтИкИ\ТоРтИкИ\obj\Debug\net6.0\refint\ТоРтИкИ.dll
+C:\Users\Пользователь\Desktop\шаражные файлики\ОАиП\source\repos\ТоРтИкИ\ТоРтИкИ\obj\Debug\net6.0\ТоРтИкИ.pdb
+C:\Users\Пользователь\Desktop\шаражные файлики\ОАиП\source\repos\ТоРтИкИ\ТоРтИкИ\obj\Debug\net6.0\ТоРтИкИ.genruntimeconfig.cache
+C:\Users\Пользователь\Desktop\шаражные файлики\ОАиП\source\repos\ТоРтИкИ\ТоРтИкИ\obj\Debug\net6.0\ref\ТоРтИкИ.dll
